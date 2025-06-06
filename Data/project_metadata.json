@@ -1,0 +1,54 @@
+{
+    "projects": [
+      {
+        "name": "Home Credit Risk",
+        "url": "https://github.com/RamanaNani/Home_credit_risk",
+        "description": "Analyzes and predicts the risk of default for loan applicants using the Home Credit Default Risk dataset. Demonstrates a full-stack data science workflow, including data preprocessing, feature engineering, model training, evaluation, and explainability (SHAP).",
+        "technologies": ["Python", "scikit-learn", "SHAP", "Jupyter Notebook"],
+        "domain": "Finance"
+      },
+      {
+        "name": "Fracture Detection",
+        "url": "https://github.com/RamanaNani/Fracture-Detection",
+        "description": "Develops a model for automated bone fracture detection using object detection techniques. Utilizes YOLOv4 and Detection Transformers to identify various types of bone fractures from X-ray images.",
+        "technologies": ["Python", "YOLOv4", "Detection Transformers", "Docker", "Jupyter Notebook"],
+        "domain": "Healthcare"
+      },
+      {
+        "name": "Obesity Prediction",
+        "url": "https://github.com/RamanaNani/Obesity-Prediction",
+        "description": "Creates a multi-class prediction model to assess obesity risk, focusing on its association with cardiovascular disease. Implements a neural network model and provides a user interface for predictions.",
+        "technologies": ["Python", "TensorFlow", "Keras", "Streamlit", "Jupyter Notebook"],
+        "domain": "Healthcare"
+      },
+      {
+        "name": "Order Appetit",
+        "url": "https://github.com/RamanaNani/Order-Appetit",
+        "description": "A conversational AI system that enables non-technical stakeholders to query MongoDB databases using natural language. Powered by LLMs and a multi-agent architecture, it transforms complex data into actionable insights.",
+        "technologies": ["Python", "MongoDB", "LLMs", "RAG", "Docker", "Vercel"],
+        "domain": "Data Analytics"
+      },
+      {
+        "name": "Chess Game with RL Environments",
+        "url": "https://github.com/RamanaNani/Chess-game-with-RL-environments",
+        "description": "Creates a smart system that learns to play chess using reinforcement learning methods. Utilizes the PettingZoo environment to train agents in a multi-agent setting.",
+        "technologies": ["Python", "Reinforcement Learning", "PettingZoo", "Jupyter Notebook"],
+        "domain": "Artificial Intelligence"
+      },
+      {
+        "name": "Language Translation",
+        "url": "https://github.com/RamanaNani/Language-translation",
+        "description": "Develops a language translation model capable of translating text between multiple languages. Implements sequence-to-sequence models with attention mechanisms.",
+        "technologies": ["Python", "TensorFlow", "Seq2Seq", "Attention Mechanism", "Jupyter Notebook"],
+        "domain": "Natural Language Processing"
+      },
+      {
+        "name": "LLMs in Health Science",
+        "url": "https://github.com/RamanaNani/LLMs-in-Health-Science",
+        "description": "Analyzes breast cancer clinical trial reports using large language models like MedBERT, MedRoBERTa, and Longformer. Aims to assist healthcare professionals in decision-making by evaluating the truthfulness of statements within clinical trial reports.",
+        "technologies": ["Python", "MedBERT", "MedRoBERTa", "Longformer", "Ensemble Learning", "Jupyter Notebook"],
+        "domain": "Healthcare"
+      }
+    ]
+  }
+  

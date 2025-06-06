@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-community
+openai
+chromadb
+PyPDF2
+python-dotenv
+pyttsx3
+SpeechRecognition
